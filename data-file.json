@@ -1,0 +1,12 @@
+[
+    {
+        "title": "titanic",
+        "genre": "romantico",
+        "yop": "1997"
+    },
+    {
+        "title": "Lotr",
+        "genre": "fantasy",
+        "yop": "2001"
+    }
+]
